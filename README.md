@@ -20,3 +20,9 @@ go get github.com/gofiber/fiber/v2
 ## Version
 - Go: go1.22.5
 - Fiber: v2.10.0
+
+## Run
+- `main` -> `server.go`
+```shell
+go run server.go
+```
