@@ -8,3 +8,5 @@ type RequestPoint struct {
 	Title     *string `json:"title"`
 	Completed *bool   `json:"completed"`
 }
+
+typ
